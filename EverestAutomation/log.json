@@ -1,0 +1,127 @@
+ 
+{
+"book1: 978-8172234980"
+{
+"Book Name":"The Alchemist",
+"Publisher":"Harper",
+"Author":"Paulo Coelho",
+"Qty":5,
+"Amazon":{
+"Price":"₹330",
+"Is available":"true",
+"Quantity":"5"
+},
+"Flipkart":{
+"Price":"₹240",
+"Is available":"true",
+"Quantity":"5"
+}
+}, 
+{
+"book2: 978-9390085026"
+{
+"Book Name":"The Alchemist",
+"Publisher":"Manjul Publishing House",
+"Author":"Paulo Coelho",
+"Qty":5,
+"Amazon":{
+"Price":"₹213",
+"Is available":"true",
+"Quantity":"5"
+},
+"Flipkart":{
+"Price":"₹222",
+"Is available":"true",
+"Quantity":"4"
+}
+}, 
+{
+"book3: 978-9388241458"
+{
+"Book Name":"The Alchemist",
+"Publisher":"Manjul Publishing House",
+"Author":"Paulo Coelho",
+"Qty":5,
+"Amazon":{
+"Price":"₹188",
+"Is available":"true",
+"Quantity":"5"
+},
+"Flipkart":{
+"Price":"₹246",
+"Is available":"true",
+"Quantity":"5"
+}
+}, 
+{
+"book4: 978-9353763633"
+{
+"Book Name":"The Alchemist",
+"Publisher":"Om Books International",
+"Author":"Ben Jonson",
+"Qty":5,
+"Amazon":{
+"Price":"₹101",
+"Is available":"true",
+"Quantity":"5"
+},
+"Flipkart":{
+"Price":"₹125",
+"Is available":"true",
+"Quantity":"5"
+}
+}, 
+{
+"book5: 978-8179925270"
+{
+"Book Name":"The Monk Who Sold His Ferrari ",
+"Publisher":"Jaico Publishing House",
+"Author":"Robin Sharma",
+"Qty":8,
+"Amazon":{
+"Price":"₹140",
+"Is available":"true",
+"Quantity":"5"
+},
+"Flipkart":{
+"Price":"₹175",
+"Is available":"true",
+"Quantity":"8"
+}
+}, 
+{
+"book6: 978-8179926086"
+{
+"Book Name":"The Monk Who Sold His Ferrari ",
+"Publisher":"Jaico Publishing House",
+"Author":"Robin Sharma",
+"Qty":5,
+"Amazon":{
+"Price":"₹125",
+"Is available":"true",
+"Quantity":"5"
+},
+"Flipkart":{
+"Price":"₹265",
+"Is available":"true",
+"Quantity":"5"
+}
+}, 
+{
+"book7: 978-8179926734"
+{
+"Book Name":"The Monk Who Sold His Ferrari ",
+"Publisher":"Jaico Publishing House",
+"Author":"Robin Sharma",
+"Qty":5,
+"Amazon":{
+"Price":"₹144",
+"Is available":"true",
+"Quantity":"5"
+},
+"Flipkart":{
+"Price":"₹185",
+"Is available":"true",
+"Quantity":"5"
+}
+},

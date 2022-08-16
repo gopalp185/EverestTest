@@ -1,0 +1,181 @@
+ 
+{
+"book1: 978-1472150936"
+{
+"Book Name":"The Candy House",
+"Publisher":"Corsair",
+"Author":"Jennifer Egan",
+"Qty":10,
+"Amazon":{
+"Price":"₹1789",
+"Is available":"true",
+"Quantity":"10"
+},
+"Flipkart":{
+"Price":"₹509",
+"Is available":"true",
+"Quantity":"10"
+}
+}, 
+{
+"book3: 978-9353763633"
+{
+"Book Name":"The Alchemist",
+"Publisher":"Om Books International",
+"Author":"Ben Jonson",
+"Qty":5,
+"Amazon":{
+"Price":"₹125",
+"Is available":"true",
+"Quantity":"5"
+},
+"Flipkart":{
+"Price":"₹125",
+"Is available":"true",
+"Quantity":"5"
+}
+}, 
+{
+"book6: 978-8172234980"
+{
+"Book Name":"The Alchemist",
+"Publisher":"Harper",
+"Author":"Paulo Coelho",
+"Qty":5,
+"Amazon":{
+"Price":"₹330",
+"Is available":"true",
+"Quantity":"5"
+},
+"Flipkart":{
+"Price":"₹240",
+"Is available":"true",
+"Quantity":"5"
+}
+}, 
+{
+"book10: 978-9390085026"
+{
+"Book Name":"The Alchemist",
+"Publisher":"Manjul Publishing House",
+"Author":"Paulo Coelho",
+"Qty":5,
+"Amazon":{
+"Price":"₹213",
+"Is available":"true",
+"Quantity":"5"
+},
+"Flipkart":{
+"Price":"₹222",
+"Is available":"true",
+"Quantity":"5"
+}
+}, 
+{
+"book15: 978-9388241458"
+{
+"Book Name":"The Alchemist",
+"Publisher":"Manjul Publishing House",
+"Author":"Paulo Coelho",
+"Qty":5,
+"Amazon":{
+"Price":"₹203",
+"Is available":"true",
+"Quantity":"5"
+},
+"Flipkart":{
+"Price":"₹246",
+"Is available":"true",
+"Quantity":"5"
+}
+}, 
+{
+"book21: 978-9353763633"
+{
+"Book Name":"The Alchemist",
+"Publisher":"Om Books International",
+"Author":"Ben Jonson",
+"Qty":5,
+"Amazon":{
+"Price":"₹125",
+"Is available":"true",
+"Quantity":"5"
+},
+"Flipkart":{
+"Price":"₹125",
+"Is available":"true",
+"Quantity":"5"
+}
+}, 
+{
+"book28: 978-8129135520"
+{
+"Book Name":"2 States",
+"Publisher":"Rupa Publications India",
+"Author":"Chetan Bhagat",
+"Qty":6,
+"Amazon":{
+"Price":"₹140",
+"Is available":"true",
+"Quantity":"6"
+},
+"Flipkart":{
+"Price":"₹195",
+"Is available":"true",
+"Quantity":"6"
+}
+}, 
+{
+"book36: 978-8129120953"
+{
+"Book Name":"2 States",
+"Publisher":"Rupa Publications",
+"Author":"Chetan Bhagat",
+"Qty":6,
+"Amazon":{
+"Price":"₹180",
+"Is available":"true",
+"Quantity":"6"
+},
+"Flipkart":{
+"Price":"₹234",
+"Is available":"true",
+"Quantity":"4"
+}
+}, 
+{
+"book45: 978-8129135490"
+{
+"Book Name":"Five Point Someone",
+"Publisher":"Rupa Publications India",
+"Author":"Chetan Bhagat",
+"Qty":4,
+"Amazon":{
+"Price":"₹149",
+"Is available":"true",
+"Quantity":"4"
+},
+"Flipkart":{
+"Price":"₹220",
+"Is available":"true",
+"Quantity":"4"
+}
+}, 
+{
+"book55: 978-8184957174"
+{
+"Book Name":"Five Point Someone",
+"Publisher":"Jaico Publishing House",
+"Author":"Chetan Bhagat",
+"Qty":4,
+"Amazon":{
+"Price":"₹141",
+"Is available":"true",
+"Quantity":"4"
+},
+"Flipkart":{
+"Price":"₹175",
+"Is available":"true",
+"Quantity":"2"
+}
+},

@@ -1,0 +1,1260 @@
+<div class="_1YokD2 _2GoDe3">
+ <div class="_1AtVbE" style="flex-grow:1;overflow:auto">
+  <div class="_1MR4o5">
+   <div class="_3GIHBu">
+    <a class="_2whKao" href="/?otracker=product_breadCrumbs_Home">Home</a>
+    <svg width="16" height="27" viewbox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_39X-Og">
+     <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="DpXnhQ"></path>
+    </svg>
+   </div>
+   <div class="_3GIHBu">
+    <a class="_2whKao" href="/books/pr?sid=bks&amp;marketplace=FLIPKART&amp;otracker=product_breadCrumbs_Books">Books</a>
+    <svg width="16" height="27" viewbox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_39X-Og">
+     <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="DpXnhQ"></path>
+    </svg>
+   </div>
+   <div class="_3GIHBu">
+    <a class="_2whKao" href="/books/graphic-novels-and-comics/pr?sid=bks,2vh&amp;marketplace=FLIPKART&amp;otracker=product_breadCrumbs_Graphic+Novels+and+Comics">Graphic Novels and Comics</a>
+    <svg width="16" height="27" viewbox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_39X-Og">
+     <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="DpXnhQ"></path>
+    </svg>
+   </div>
+   <div class="_3GIHBu">
+    <a class="_2whKao" href="/books/graphic-novels-and-comics/other-comics/pr?sid=bks,2vh,l3z&amp;marketplace=FLIPKART&amp;otracker=product_breadCrumbs_Other+Comics">Other Comics</a>
+    <svg width="16" height="27" viewbox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_39X-Og">
+     <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="DpXnhQ"></path>
+    </svg>
+   </div>
+   <div class="_3GIHBu">
+    <div class="_1LJS6T _2whKao _1QoaG0">
+     <div class="_2NKhZn">
+      <p>Alchemist (English, Hardcover, Coelho Paulo)</p> 
+     </div>
+    </div>
+    <svg width="16" height="27" viewbox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_39X-Og">
+     <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="DpXnhQ"></path>
+    </svg>
+   </div>
+  </div>
+ </div>
+ <div class="_1AtVbE col-12-12" style="flex:0 0 70px;max-width:70px">
+  <div class="_1GpbsQ">
+   <div class="Bv11UC">
+    <span class=""><span class="_2kXMeX">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" class="Kj-yxs">
+       <path d="M14.78 5.883L9.032 0v3.362C3.284 4.202.822 8.404 0 12.606 2.053 9.666 4.927 8.32 9.032 8.32v3.446l5.748-5.883z" class="_2bvlkb" fill="#c2c2c2" fill-rule="evenodd"></path>
+      </svg><span style="margin-left:5px">Share</span></span></span>
+   </div>
+  </div>
+ </div>
+</div>
+<div class="_1AtVbE col-12-12">
+ <div class="aMaAEs">
+  <div>
+   <h1 class="yhB1nd"><span class="B_NuCI">Alchemist
+     <!-- -->&nbsp;&nbsp;(English, Hardcover, Coelho Paulo)</span></h1>
+  </div>
+  <div class="">
+   <div class="_3_L3jD">
+    <div class="gUuXy- _16VRIQ">
+     <span id="productRating_LSTBOK97800620243299QV26H_9780062024329_" class="_1lRcqv">
+      <div class="_3LWZlK">
+       5
+       <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg==" class="_1wB99o">
+      </div></span>
+     <span class="_2_R_DZ"><span><span>2 Ratings&nbsp;</span><span class="_13vcmD">&amp;</span><span>&nbsp;1 Reviews</span></span></span>
+    </div>
+   </div>
+   <span class="b7864- _2Z07dN"><img height="21" src="//static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png" class="jMnjzX"></span>
+  </div>
+  <div class="dyC4hf">
+   <div class="CEmiEU">
+    <div class="_25b18c">
+     <div class="_30jeq3 _16Jk6d">
+      ₹1,013
+     </div>
+     <div class="_3I9_wc _2p6lqe">
+      ₹
+      <!-- -->1,522
+     </div>
+     <div class="_3Ay6Sb _31Dcoz">
+      <span>33% off</span>
+     </div>
+    </div>
+   </div>
+   <div class="_1V9q7_">
+    <img class="_3ECE0V" src="//static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/info-basic_6c1a38.svg" id="price-info-icon">
+   </div>
+  </div>
+  <div class="_2JC05C">
+   Hurry, Only 1 left!
+  </div>
+ </div>
+</div>
+<div class="_1AtVbE col-12-12">
+ <div class="_3Z0lU8">
+  <div class="rd9nIL">
+   Available offers
+  </div>
+ </div>
+ <div class="_3TT44I">
+  <div class="WT_FyS">
+   <div class="XUp0WS">
+    <span class="_3j4Zjq row"><img src="https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90" width="18" height="18" class="_3HLfAg"><li class="_16eBzU col"><span class="u8dYXW">Bank Offer</span><span>10% off on Citi Credit and Debit Cards, up to ₹3,000. On orders of ₹5,000 and above</span>
+      <div class="Bv11UC _1qNw3R">
+       <span class="fGhUR2">T&amp;C</span>
+      </div></li></span>
+    <span class="_3j4Zjq row"><img src="https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90" width="18" height="18" class="_3HLfAg"><li class="_16eBzU col"><span class="u8dYXW">Bank Offer</span><span>10% off on Bank of Baroda Credit Cards, up to ₹1,500. On orders of ₹5,000 and above</span>
+      <div class="Bv11UC _1qNw3R">
+       <span class="fGhUR2">T&amp;C</span>
+      </div></li></span>
+    <span class="_3j4Zjq row"><img src="https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90" width="18" height="18" class="_3HLfAg"><li class="_16eBzU col"><span class="u8dYXW">Bank Offer</span><span>10% off on OneCard Credit Cards, up to ₹1,500. On orders of ₹5,000 and above</span>
+      <div class="Bv11UC _1qNw3R">
+       <span class="fGhUR2">T&amp;C</span>
+      </div></li></span>
+    <span class="_3j4Zjq row"><img src="https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90" width="18" height="18" class="_3HLfAg"><li class="_16eBzU col"><span class="u8dYXW">Freebie</span><span>Byjus Free Online Session</span>
+      <div class="Bv11UC _1qNw3R">
+       <span class="fGhUR2">T&amp;C</span>
+      </div></li></span>
+   </div>
+   <button class="_1JIkBw">
+    <div class="row">
+     <div class="IMZJg1">
+      <span>View 4 more offers</span>
+     </div>
+    </div></button>
+  </div>
+ </div>
+</div>
+<div class="_1AtVbE col-12-12">
+ <div class="row _2WVRLm">
+  <div class="col col-12-12">
+   <div class="_1PQN-K">
+    <div class="_2taUHM">
+     Delivery
+    </div>
+    <div class="_24N3im">
+     <div class="_1tgazt _1LO0H9">
+      <div class="bTgKY7 _16ocF5"></div>
+      <div class="_2u50Np">
+       <div class="hivXmn _1_74WS">
+        <svg width="12" height="12" viewbox="0 0 9 12" class="_1kbGNj" xmlns="http://www.w3.org/2000/svg">
+         <path fill="#2874f0" class="_6xm1dD" d="M4.2 5.7c-.828 0-1.5-.672-1.5-1.5 0-.398.158-.78.44-1.06.28-.282.662-.44 1.06-.44.828 0 1.5.672 1.5 1.5 0 .398-.158.78-.44 1.06-.28.282-.662.44-1.06.44zm0-5.7C1.88 0 0 1.88 0 4.2 0 7.35 4.2 12 4.2 12s4.2-4.65 4.2-7.8C8.4 1.88 6.52 0 4.2 0z" fill-rule="evenodd"></path>
+        </svg>
+        <form autoComplete="off" class="N79-rD">
+         <input type="text" class="_36yFo0" placeholder="Enter Delivery Pincode" value="" maxLength="6" id="pincodeInputId">
+        </form>
+        <div class="_2YsvKq _2ggyDI _16ocF5">
+         <svg class="_2LJFE8" viewbox="25 25 50 50">
+          <circle stroke="#0057e7" class="_2XJHnB" cx="50" cy="50" r="10" fill="none" stroke-width="3" stroke-miterlimit="10"></circle>
+         </svg>
+        </div>
+        <span class="_2P_LDn">Check
+         <div class="_2OTVHf _1Hhkx7 _1mQK5h _3BB7xg _3yvRQZ">
+          <div class="_3Oikkn _3_ezix _3Hbb-8">
+           Enter pincode
+          </div>
+         </div></span>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="_1SLzzw">
+    <div class="_1OUluu">
+     <ul class="eWlq4L">
+      <div class="_20XEBf">
+       <div class="_3XINqE">
+        Usually delivered in
+        <span class="_1TPvTK">2-3 days</span>
+        <div class="Bv11UC">
+         <span class="question">?</span>
+        </div>
+       </div>
+       <div class="_1dXn7l">
+        Enter pincode for exact delivery dates/charges
+       </div>
+      </div>
+     </ul>
+    </div>
+    <div class="_2O5gut">
+     <span class="YxlyDn">View Details</span>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+<div class="_1AtVbE col-12-12" style="padding:24px 0px 0px 0px">
+ <div class="_3nkT-2">
+  <div class="_3cFJ8l">
+   Author
+  </div>
+  <div class="_2o-xpa">
+   <a class="_1mXcCf RmoJUa _14Me7y" href="/books/coelho-paulo~contributor/pr?sid=bks">Coelho Paulo</a>
+   <div class="_2RbGAi _1Gh8xC">
+    <div class="Dh6Djs"></div>
+   </div>
+  </div>
+  <div class="_2eaE_9 _1Gh8xC">
+   Read More
+  </div>
+ </div>
+</div>
+<div class="_1YokD2 _2GoDe3" style="padding:24px 0px 0px 0px">
+ <div class="_1AtVbE col-6-12">
+  <div class="_2cM9lP">
+   <div class="_3a9CI2">
+    Highlights
+   </div>
+   <div class="_2418kt">
+    <ul>
+     <li class="_21Ahn-">Language: English</li>
+     <li class="_21Ahn-">Binding: Hardcover</li>
+     <li class="_21Ahn-">Publisher: HarperCollins Publishers Inc</li>
+     <li class="_21Ahn-">Genre: Self-Help</li>
+     <li class="_21Ahn-">ISBN: 9780062024329, 9780062024329</li>
+     <li class="_21Ahn-">Pages: 208</li>
+    </ul>
+   </div>
+  </div>
+ </div>
+ <div class="_1AtVbE col-6-12">
+  <div class="xDHSrl flex">
+   <div class="_1YGsgZ">
+    Services
+   </div>
+   <ul class="ZlRKeH">
+    <li class="_2crLYm">
+     <div class="me3OWC _1vBu0N"></div>
+     <div class="_2MJMLX">
+      7 Days Replacement Policy
+      <div class="Bv11UC">
+       <span class="question">?</span>
+      </div>
+     </div></li>
+    <li class="_2crLYm">
+     <div class="me3OWC eUF4ak"></div>
+     <div class="_2MJMLX">
+      Cash on Delivery available
+      <div class="Bv11UC">
+       <span class="question">?</span>
+      </div>
+     </div></li>
+   </ul>
+  </div>
+ </div>
+</div>
+<div class="_1YokD2 _3Mn1Gg">
+ <div class="_1AtVbE col-12-12">
+  <div class="_1iWRKW">
+   <div class="_1jneHk">
+    <span>Seller</span>
+   </div>
+   <div>
+    <div id="sellerName" class="_1RLviY">
+     <span><span>NSPRetail</span>
+      <div class="_3LWZlK _1D-8OL">
+       4.1
+       <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg==" class="_1wB99o">
+      </div></span>
+    </div>
+    <div class="xDHSrl">
+     <ul class="_2-RJLI">
+      <li class="_1UNqMC">
+       <div class="_2MJMLX">
+        7 Days Replacement Policy
+        <div class="Bv11UC">
+         <span class="question">?</span>
+        </div>
+       </div></li>
+     </ul>
+    </div>
+    <li class="_38I6QT"><span class="">View </span><a href="/sellers?pid=9780062024329&amp;fetchId=77977828-879a-4470-812c-da83765629e5.9780062024329"><span class="_1_xoMS">more sellers </span><span>starting from </span><span class="_22L9YP">₹
+       <!-- -->1,013</span></a></li>
+   </div>
+  </div>
+ </div>
+ <div class="_1YokD2 _2GoDe3" style="padding:24px 0px 0px 0px">
+  <div class="_1AtVbE col-6-12" style="padding:0px 12px 0px 0px">
+   <div>
+    <div class="_2xlWlq">
+     <div class="_3ywSr_" style="padding-top:23.89%">
+      <div class="_1bEAQy _312yBx" style="padding-top:23.89%">
+       <img class="_2OHU_q" alt="">
+       <img class="kJjFO0 _3DIhEh" src="https://rukminim1.flixcart.com/lockin/100/24/images/CCO__PP_2019-07-14.png?q=50" alt="">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="_1AtVbE col-12-12">
+  <div class="_3nkT-2">
+   <div class="_3cFJ8l">
+    Description
+   </div>
+   <div class="_2o-xpa">
+    <div class="_1mXcCf">
+     <p> <em>SparkNotes presents detailed notes on Paulo Coelho’s The Alchemist.</em></p> 
+     <p> <strong>Summary of the Book</strong></p> 
+     <p> This book contains detailed notes on The Alchemist, Paulo Coelho’s most famous novel. It includes a complete glossary, detailed analysis for readers and more. This book will prove useful to readers who are preparing a literary critique of the novel, or studying the novel for its plot. It also includes detailed study questions, quizzes and other important features which will help students absorb the textual matter of the book with ease and help them prepare for a review. In the nature of all SparkNotes books, this book also delves into the motifs, symbols and essay topics within the novel.</p> 
+     <p> <strong>About Paulo Coelho</strong></p> 
+     <p> Paulo Coelho is a Brazilian novelist and lyricist known for novels such as <em>The Alchemist</em>, <em>Veronika Decides to Die</em>, <em>Brida </em>and <em>The Zahir</em>.<br> Coelho’s life story has been adapted into a film entitled <em>The Pilgrim — the Best Story of Paulo Coelho </em>or <em>Não Pare na Pista</em>. The film was directed by <strong>Daniel Augusto</strong>.</p>
+    </div>
+    <div class="_2RbGAi">
+     <div class="Dh6Djs"></div>
+    </div>
+   </div>
+   <div class="_2eaE_9">
+    Read More
+   </div>
+  </div>
+ </div>
+ <div class="_1AtVbE col-12-12">
+  <div class="_3dtsli">
+   <div class="_5pFuey">
+    Specifications
+   </div>
+   <div>
+    <div class="_1UhVsV _3AsE0T">
+     <div class="_3k-BhJ">
+      <div class="flxcaE">
+       Book Details
+      </div>
+      <table class="_14cfVK">
+       <tbody>
+        <tr class="_1s_Smc row">
+         <td class="_1hKmbr col col-3-12">Imprint</td>
+         <td class="URwL2w col col-9-12">
+          <ul>
+           <li class="_21lJbe">HarperOne</li>
+          </ul></td>
+        </tr>
+        <tr class="_1s_Smc row">
+         <td class="_1hKmbr col col-3-12">Publication Year</td>
+         <td class="URwL2w col col-9-12">
+          <ul>
+           <li class="_21lJbe">April</li>
+          </ul></td>
+        </tr>
+        <tr class="_1s_Smc row">
+         <td class="_1hKmbr col col-3-12">Edition Type</td>
+         <td class="URwL2w col col-9-12">
+          <ul>
+           <li class="_21lJbe">30th Anniversary</li>
+          </ul></td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+     <div class="_3k-BhJ">
+      <div class="flxcaE">
+       Dimensions
+      </div>
+      <table class="_14cfVK">
+       <tbody>
+        <tr class="_1s_Smc row">
+         <td class="_1hKmbr col col-3-12">Width</td>
+         <td class="URwL2w col col-9-12">
+          <ul>
+           <li class="_21lJbe">19 mm</li>
+          </ul></td>
+        </tr>
+        <tr class="_1s_Smc row">
+         <td class="_1hKmbr col col-3-12">Height</td>
+         <td class="URwL2w col col-9-12">
+          <ul>
+           <li class="_21lJbe">144 mm</li>
+          </ul></td>
+        </tr>
+        <tr class="_1s_Smc row">
+         <td class="_1hKmbr col col-3-12">Length</td>
+         <td class="URwL2w col col-9-12">
+          <ul>
+           <li class="_21lJbe">214 mm</li>
+          </ul></td>
+        </tr>
+        <tr class="_1s_Smc row">
+         <td class="_1hKmbr col col-3-12">Weight</td>
+         <td class="URwL2w col col-9-12">
+          <ul>
+           <li class="_21lJbe">488 gr</li>
+          </ul></td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+    </div>
+    <button class="_2KpZ6l _1FH0tX">Read More</button>
+   </div>
+  </div>
+ </div>
+ <div class="_1AtVbE col-12-12">
+  <div class="Qc7Nxn">
+   <div class="_2a46si">
+    <span>Frequently Bought Together</span>
+   </div>
+   <div>
+    <div class="_29oOb_">
+     <div class="_3E8aIl mtoPr4 _3EpnAp">
+      <div class="litDoE">
+       <div class="_4ddWXP _3BCh3_">
+        <a class="_2rpwqI" title="Alchemist" target="_blank" rel="noopener noreferrer" href="/alchemist/p/itmfc9jxsc7dckfm?pid=9780062024329">
+         <div class="_28_T72">
+          <div>
+           <div class="CXW8mj" style="height:112px;width:112px">
+            <img class="_396cs4 _3exPp9" alt="Alchemist" src="https://rukminim1.flixcart.com/image/312/312/l26hdow0/book/t/x/l/alchemist-original-imafdarurd2atxyj.jpeg?q=70">
+           </div>
+          </div>
+         </div></a>
+        <div>
+         <div>
+          <a title="Alchemist" class="s1Q9rs" target="_blank" rel="noopener noreferrer" href="/alchemist/p/itmfc9jxsc7dckfm?pid=9780062024329">Alchemist</a>
+         </div>
+         <div class="gUuXy- _2D5lwg">
+          <span id="productRating_LSTBOK97800620243299QV26H_9780062024329_" class="_1lRcqv">
+           <div class="_3LWZlK">
+            5
+            <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg==" class="_1wB99o">
+           </div></span>
+          <span class="_2_R_DZ">(2)</span>
+         </div>
+         <div class="_8VNy32">
+          <div class="_25b18c">
+           <div class="_30jeq3">
+            ₹1,013
+           </div>
+           <div class="_3I9_wc">
+            ₹
+            <!-- -->1,522
+           </div>
+           <div class="_3Ay6Sb">
+            <span>33% off</span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="_3E8aIl mtoPr4">
+      <div class="litDoE">
+       <div class="_2AQydx">
+        <label class="_2iDkf8 _1dKMBS"><input type="checkbox" checked class="_30VH1S" readonly>
+         <div class="_24_Dny"></div></label>
+       </div>
+       <div class="_4ddWXP _3BCh3_">
+        <a class="_2rpwqI" title="Believe in Yourself  - Believe in Yourself" target="_blank" rel="noopener noreferrer" href="/believe-yourself/p/itmfc69dk7kwscgz?pid=9789386450739&amp;lid=LSTBOK97893864507394OAHU5&amp;marketplace=FLIPKART&amp;fm=productRecommendation%2Fattach&amp;iid=R%3Aa%3Bp%3A9780062024329%3Bpt%3App%3Buid%3A82404faa-1c99-11ed-9174-bb95cb151af4%3B.9789386450739&amp;ppt=None&amp;ppn=None&amp;ssid=tpecnao4sw0000001660568117227&amp;otracker=pp_reco_Frequently%2BBought%2BTogether_1_Frequently%2BBought%2BTogether_9789386450739_productRecommendation%2Fattach_1&amp;otracker1=pp_reco_PINNED_productRecommendation%2Fattach_Frequently%2BBought%2BTogether_NA_productCard_cc_1_NA_view-all&amp;cid=9789386450739">
+         <div class="_28_T72">
+          <div>
+           <div class="CXW8mj" style="height:112px;width:112px">
+            <img class="_396cs4 _3exPp9" alt="Believe in Yourself  - Believe in Yourself" src="https://rukminim1.flixcart.com/image/312/312/kskotjk0/book/j/w/n/believe-in-yourself-original-imag63sffhukwpq3.jpeg?q=70">
+           </div>
+          </div>
+         </div></a>
+        <div>
+         <div>
+          <a title="Believe in Yourself  - Believe in Yourself" class="s1Q9rs" target="_blank" rel="noopener noreferrer" href="/believe-yourself/p/itmfc69dk7kwscgz?pid=9789386450739&amp;lid=LSTBOK97893864507394OAHU5&amp;marketplace=FLIPKART&amp;fm=productRecommendation%2Fattach&amp;iid=R%3Aa%3Bp%3A9780062024329%3Bpt%3App%3Buid%3A82404faa-1c99-11ed-9174-bb95cb151af4%3B.9789386450739&amp;ppt=None&amp;ppn=None&amp;ssid=tpecnao4sw0000001660568117227&amp;otracker=pp_reco_Frequently%2BBought%2BTogether_1_Frequently%2BBought%2BTogether_9789386450739_productRecommendation%2Fattach_1&amp;otracker1=pp_reco_PINNED_productRecommendation%2Fattach_Frequently%2BBought%2BTogether_NA_productCard_cc_1_NA_view-all&amp;cid=9789386450739">Believe in Yourself - Believe in Yourself</a>
+         </div>
+         <div class="gUuXy- _2D5lwg">
+          <span id="productRating_LSTBOK97893864507394OAHU5_9789386450739_" class="_1lRcqv">
+           <div class="_3LWZlK">
+            4.4
+            <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg==" class="_1wB99o">
+           </div></span>
+          <span class="_2_R_DZ">(24,917)</span>
+         </div>
+         <div class="_8VNy32">
+          <div class="_25b18c">
+           <div class="_30jeq3">
+            ₹110
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="_2wKoSe">
+     <div class="_31684S">
+      <div>
+       <div class="_1BErVs _3HBQud">
+        <div class="_3_Be9W">
+         <span>1 Item</span>
+        </div>
+        <div class="_3ocu1Y">
+         <span>₹
+          <!-- -->1,013</span>
+        </div>
+       </div>
+       <div class="_1BErVs">
+        <div class="_3_Be9W">
+         1
+         <!-- --> 
+         <span>Add-on</span>
+        </div>
+        <div class="_3ocu1Y">
+         <span>₹<span>110</span></span>
+        </div>
+       </div>
+       <div class="_1BErVs _3hyeE5">
+        <div class="_3_Be9W">
+         Total
+        </div>
+        <div class="_3ocu1Y">
+         ₹
+         <span>1,123</span>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="_1UcWw6">
+      <button class="_2KpZ6l _1t_O3S _2ti6Tf _3AWRsL"><span>
+        <svg class="ZOtu09" width="16" height="16" viewbox="0 0 16 15" xmlns="http://www.w3.org/2000/svg">
+         <path class="" d="M15.32 2.405H4.887C3 2.405 2.46.805 2.46.805L2.257.21C2.208.085 2.083 0 1.946 0H.336C.1 0-.064.24.024.46l.644 1.945L3.11 9.767c.047.137.175.23.32.23h8.418l-.493 1.958H3.768l.002.003c-.017 0-.033-.003-.05-.003-1.06 0-1.92.86-1.92 1.92s.86 1.92 1.92 1.92c.99 0 1.805-.75 1.91-1.712l5.55.076c.12.922.91 1.636 1.867 1.636 1.04 0 1.885-.844 1.885-1.885 0-.866-.584-1.593-1.38-1.814l2.423-8.832c.12-.433-.206-.86-.655-.86" fill="#fff"></path>
+        </svg><span>Add 2 Items to Cart</span></span></button>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="_1AtVbE col-12-12">
+  <div class="col JOpGWq">
+   <div class="_3HKIdy">
+    <div class="_2QKOHZ">
+     Ratings &amp; Reviews
+    </div>
+    <div class="_3cH4s3">
+     <button class="_2KpZ6l _1q9yVr" type="submit"><span>Rate Product</span></button>
+    </div>
+   </div>
+   <div class="row _3AjFsn _2c2kV-">
+    <div class="_2e3Uck _2_0QCf">
+     <div class="row">
+      <div class="col-3-12">
+       <div class="col">
+        <div class="row">
+         <div class="col-12-12 _1azcI6">
+          <div class="_2d4LTz">
+           5
+          </div>
+          <div class="_2yxeXv">
+           ★
+          </div>
+         </div>
+        </div>
+        <div class="row _2afbiS">
+         <div class="col-12-12">
+          <span>2 Ratings &amp;</span>
+         </div>
+        </div>
+        <div class="row _2afbiS">
+         <div class="col-12-12">
+          <span>1 Reviews</span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="col-9-12 _3qpj74">
+       <div class="_13sFCC miQW6D _2m9Pwo">
+        <ul class="_1IMApt">
+         <li class="_28Xb_u">
+          <div class="omG9iE">
+           <span class="_26f_zl">5</span>
+           <span class="_2xBWPJ">★</span>
+          </div></li>
+         <li class="_28Xb_u">
+          <div class="omG9iE">
+           <span class="_26f_zl">4</span>
+           <span class="_2xBWPJ">★</span>
+          </div></li>
+         <li class="_28Xb_u">
+          <div class="omG9iE">
+           <span class="_26f_zl">3</span>
+           <span class="_2xBWPJ">★</span>
+          </div></li>
+         <li class="_28Xb_u">
+          <div class="omG9iE">
+           <span class="_26f_zl">2</span>
+           <span class="_2xBWPJ">★</span>
+          </div></li>
+         <li class="_28Xb_u">
+          <div class="omG9iE">
+           <span class="_26f_zl">1</span>
+           <span class="_2xBWPJ">★</span>
+          </div></li>
+        </ul>
+        <ul class="_2VPyN4">
+         <li class="_28Xb_u">
+          <div>
+           <div class="_3UaKsS">
+            <span style="width:100%" class="EkB-Xt _1z2lGe"></span>
+           </div>
+          </div></li>
+         <li class="_28Xb_u">
+          <div>
+           <div class="_3UaKsS">
+            <span style="width:0%" class="EkB-Xt _2fGXyl"></span>
+           </div>
+          </div></li>
+         <li class="_28Xb_u">
+          <div>
+           <div class="_3UaKsS">
+            <span style="width:0%" class="EkB-Xt _1ia31G"></span>
+           </div>
+          </div></li>
+         <li class="_28Xb_u">
+          <div>
+           <div class="_3UaKsS">
+            <span style="width:0%" class="EkB-Xt HnnP7O"></span>
+           </div>
+          </div></li>
+         <li class="_28Xb_u">
+          <div>
+           <div class="_3UaKsS">
+            <span style="width:0%" class="EkB-Xt _2W5rgh"></span>
+           </div>
+          </div></li>
+        </ul>
+        <ul class="_2jr1F_">
+         <li class="_28Xb_u">
+          <div class="_1uJVNT">
+           2
+          </div></li>
+         <li class="_28Xb_u">
+          <div class="_1uJVNT">
+           0
+          </div></li>
+         <li class="_28Xb_u">
+          <div class="_1uJVNT">
+           0
+          </div></li>
+         <li class="_28Xb_u">
+          <div class="_1uJVNT">
+           0
+          </div></li>
+         <li class="_28Xb_u">
+          <div class="_1uJVNT">
+           0
+          </div></li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col col-12-12"></div>
+   </div>
+   <div class="_2c2kV-">
+    <div class="_16PBlm">
+     <div class="col">
+      <div class="col _2wzgFH">
+       <div class="row">
+        <div class="_3LWZlK _1BLPMq">
+         5
+         <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg==" class="_1wB99o">
+        </div>
+        <p class="_2-N8zT">Classy product</p>
+       </div>
+       <div class="row">
+        <div class="t-ZTKy">
+         <div>
+          <div class="">
+           Best book
+          </div>
+          <span class="_1H-bmy"><span>READ MORE</span></span>
+         </div>
+        </div>
+       </div>
+       <div class="row _3n8db9">
+        <div class="row">
+         <p class="_2sc7ZR _2V5EHH">Vatsav Moliya</p>
+         <div></div>
+         <p class="_2sc7ZR">Nov, 2016</p>
+        </div>
+        <div class="_1e9_Zu">
+         <div class="row">
+          <div class="_27aTsS">
+           <div class="_1LmwT9">
+            <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq">
+             <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+            </svg>
+            <span class="_3c3Px5">1</span>
+           </div>
+           <div class="_1LmwT9 pkR4jH">
+            <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq pkR4jH">
+             <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+            </svg>
+            <span class="_3c3Px5">0</span>
+           </div>
+          </div>
+          <div class="_2bmov8">
+           <svg width="6" height="11" viewbox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2UvOBb">
+            <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="_2aPE6f"></path>
+           </svg>
+           <div class="_3E8aIl _38dCuf">
+            <div class="_3XCI6U">
+             <a href="/reviews/c2dc5415-fdf9-4ba8-a4f3-cc53ec64c18f"><span>Permalink</span></a>
+            </div>
+            <div class="_3XCI6U _2b2z-j">
+             <span>Report Abuse</span>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="_1AtVbE col-12-12">
+  <div class="_1v1N_F">
+   <div>
+    <div class="row _1uIQVx">
+     <div class="_2n4XY2 _1d7nTU col">
+      Questions and Answers
+     </div>
+     <div class="col AJmKFS">
+      <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R3JvdXAgNTwvdGl0bGU+PGcgZmlsbD0iIzIxMjEyMSIgZmlsbC1ydWxlPSJldmVub2RkIj48cGF0aCBkPSJNMTEuNjE4IDkuODk3bDQuMjI0IDQuMjEyYy4wOTIuMDkuMS4yMy4wMi4zMTJsLTEuNDY0IDEuNDZjLS4wOC4wOC0uMjIyLjA3Mi0uMzE0LS4wMkw5Ljg2OCAxMS42Nk02LjQ4NiAxMC45Yy0yLjQyIDAtNC4zOC0xLjk1NS00LjM4LTQuMzY3IDAtMi40MTMgMS45Ni00LjM3IDQuMzgtNC4zN3M0LjM4IDEuOTU3IDQuMzggNC4zN2MwIDIuNDEyLTEuOTYgNC4zNjgtNC4zOCA0LjM2OG0wLTEwLjgzNEMyLjkwNC4wNjYgMCAyLjk2IDAgNi41MzMgMCAxMC4xMDUgMi45MDQgMTMgNi40ODYgMTNzNi40ODctMi44OTUgNi40ODctNi40NjdjMC0zLjU3Mi0yLjkwNS02LjQ2Ny02LjQ4Ny02LjQ2NyIvPjwvZz48L3N2Zz4=" height="20" width="20">
+     </div>
+    </div>
+    <div class="">
+     <div class="_1RWRBu">
+      <div>
+       <div class="_1xR0kG _3cziW5">
+        <span class="_3PSmm0">Q:</span>
+        <span>is this book in hindi language.</span>
+       </div>
+       <div>
+        <div class="_2yeNfb">
+         <span class="_3PSmm0">A:</span>
+         <span>yes 😊</span>
+        </div>
+        <div class="_1OuUqT">
+         <div class="_1nBIs6">
+          <div class="qLyyvN">
+           <span class="_2GEIK5">sumit saharan</span>
+          </div>
+          <span class="OE2Dzi">
+           <svg width="14" height="14" viewbox="0 0 12 12" xmlns="http://www.w3.org/2000/svg" class="_3V5JvW">
+            <g>
+             <circle cx="6" cy="6" r="6" fill="#878787"></circle>
+             <path stroke="#FFF" stroke-width="1.5" d="M3 6l2 2 4-4" fill="#878787"></path>
+            </g>
+           </svg>Certified Buyer</span>
+         </div>
+         <div class="_1O5m0R">
+          <div class="_1LmwT9 _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">5</span>
+          </div>
+          <div class="_1LmwT9 pkR4jH _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq pkR4jH">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">1</span>
+          </div>
+         </div>
+         <div class="_2bmov8">
+          <svg width="6" height="11" viewbox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2UvOBb">
+           <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="_2aPE6f"></path>
+          </svg>
+          <div class="_3E8aIl _38dCuf">
+           <div class="_3XCI6U _2b2z-j">
+            <span>Report Abuse</span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <a href="#" class="nC1FHF">Read other answers</a>
+      </div>
+     </div>
+     <div class="_1RWRBu">
+      <div>
+       <div class="_1xR0kG _3cziW5">
+        <span class="_3PSmm0">Q:</span>
+        <span>can u tell about size of this book nd this book have complete writing as original book have?</span>
+       </div>
+       <div>
+        <div class="_2yeNfb">
+         <span class="_3PSmm0">A:</span>
+         <span>small in size... but translation is really good as original English book of alchemist...</span>
+        </div>
+        <div class="_1OuUqT">
+         <div class="_1nBIs6">
+          <div class="qLyyvN">
+           <span class="_2GEIK5">Komal Kashi.</span>
+          </div>
+          <span class="OE2Dzi">
+           <svg width="14" height="14" viewbox="0 0 12 12" xmlns="http://www.w3.org/2000/svg" class="_3V5JvW">
+            <g>
+             <circle cx="6" cy="6" r="6" fill="#878787"></circle>
+             <path stroke="#FFF" stroke-width="1.5" d="M3 6l2 2 4-4" fill="#878787"></path>
+            </g>
+           </svg>Certified Buyer</span>
+         </div>
+         <div class="_1O5m0R">
+          <div class="_1LmwT9 _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">2</span>
+          </div>
+          <div class="_1LmwT9 pkR4jH _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq pkR4jH">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">0</span>
+          </div>
+         </div>
+         <div class="_2bmov8">
+          <svg width="6" height="11" viewbox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2UvOBb">
+           <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="_2aPE6f"></path>
+          </svg>
+          <div class="_3E8aIl _38dCuf">
+           <div class="_3XCI6U _2b2z-j">
+            <span>Report Abuse</span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="_1RWRBu">
+      <div>
+       <div class="_1xR0kG _3cziW5">
+        <span class="_3PSmm0">Q:</span>
+        <span>is this book in hindi or english language ?</span>
+       </div>
+       <div>
+        <div class="_2yeNfb">
+         <span class="_3PSmm0">A:</span>
+         <span>Hindi</span>
+        </div>
+        <div class="_1OuUqT">
+         <div class="_1nBIs6">
+          <div class="qLyyvN">
+           <span class="_2GEIK5">Deepak Sharma</span>
+          </div>
+          <span class="OE2Dzi">
+           <svg width="14" height="14" viewbox="0 0 12 12" xmlns="http://www.w3.org/2000/svg" class="_3V5JvW">
+            <g>
+             <circle cx="6" cy="6" r="6" fill="#878787"></circle>
+             <path stroke="#FFF" stroke-width="1.5" d="M3 6l2 2 4-4" fill="#878787"></path>
+            </g>
+           </svg>Certified Buyer</span>
+         </div>
+         <div class="_1O5m0R">
+          <div class="_1LmwT9 _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">1</span>
+          </div>
+          <div class="_1LmwT9 pkR4jH _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq pkR4jH">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">0</span>
+          </div>
+         </div>
+         <div class="_2bmov8">
+          <svg width="6" height="11" viewbox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2UvOBb">
+           <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="_2aPE6f"></path>
+          </svg>
+          <div class="_3E8aIl _38dCuf">
+           <div class="_3XCI6U _2b2z-j">
+            <span>Report Abuse</span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="_1RWRBu _36IZKv">
+      <div>
+       <div class="_1xR0kG _3cziW5">
+        <span class="_3PSmm0">Q:</span>
+        <span>is it translated well in hindi as I am having English edition which is fantastic so is this hindi version is as interesting as English one?</span>
+       </div>
+       <div>
+        <div class="_2yeNfb">
+         <span class="_3PSmm0">A:</span>
+         <span>I have English n Hindi edition of this book. As you asked about hindi edition., So, Hindi edition is translated decently by translator but i prefer English edition only.</span>
+        </div>
+        <div class="_1OuUqT">
+         <div class="_1nBIs6">
+          <div class="qLyyvN">
+           <span class="_2GEIK5">RAHUL KRISHAN ADITYA</span>
+          </div>
+          <span class="OE2Dzi">
+           <svg width="14" height="14" viewbox="0 0 12 12" xmlns="http://www.w3.org/2000/svg" class="_3V5JvW">
+            <g>
+             <circle cx="6" cy="6" r="6" fill="#878787"></circle>
+             <path stroke="#FFF" stroke-width="1.5" d="M3 6l2 2 4-4" fill="#878787"></path>
+            </g>
+           </svg>Certified Buyer</span>
+         </div>
+         <div class="_1O5m0R">
+          <div class="_1LmwT9 _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">1</span>
+          </div>
+          <div class="_1LmwT9 pkR4jH _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq pkR4jH">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">2</span>
+          </div>
+         </div>
+         <div class="_2bmov8">
+          <svg width="6" height="11" viewbox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2UvOBb">
+           <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="_2aPE6f"></path>
+          </svg>
+          <div class="_3E8aIl _38dCuf">
+           <div class="_3XCI6U _2b2z-j">
+            <span>Report Abuse</span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <a href="#" class="nC1FHF">Read other answers</a>
+      </div>
+     </div>
+     <div class="_1RWRBu _36IZKv">
+      <div>
+       <div class="_1xR0kG _3cziW5">
+        <span class="_3PSmm0">Q:</span>
+        <span>Use for student</span>
+       </div>
+       <div>
+        <div class="_2yeNfb">
+         <span class="_3PSmm0">A:</span>
+         <span>yes.</span>
+        </div>
+        <div class="_1OuUqT">
+         <div class="_1nBIs6">
+          <div class="qLyyvN">
+           <span class="_2GEIK5">Pooja Lohar</span>
+          </div>
+          <span class="OE2Dzi">
+           <svg width="14" height="14" viewbox="0 0 12 12" xmlns="http://www.w3.org/2000/svg" class="_3V5JvW">
+            <g>
+             <circle cx="6" cy="6" r="6" fill="#878787"></circle>
+             <path stroke="#FFF" stroke-width="1.5" d="M3 6l2 2 4-4" fill="#878787"></path>
+            </g>
+           </svg>Certified Buyer</span>
+         </div>
+         <div class="_1O5m0R">
+          <div class="_1LmwT9 _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">0</span>
+          </div>
+          <div class="_1LmwT9 pkR4jH _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq pkR4jH">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">1</span>
+          </div>
+         </div>
+         <div class="_2bmov8">
+          <svg width="6" height="11" viewbox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2UvOBb">
+           <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="_2aPE6f"></path>
+          </svg>
+          <div class="_3E8aIl _38dCuf">
+           <div class="_3XCI6U _2b2z-j">
+            <span>Report Abuse</span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="_1RWRBu _36IZKv">
+      <div>
+       <div class="_1xR0kG _3cziW5">
+        <span class="_3PSmm0">Q:</span>
+        <span>english version of this book has 208 pages but in hindi 136 why?</span>
+       </div>
+       <div>
+        <div class="_2yeNfb">
+         <span class="_3PSmm0">A:</span>
+         <span>Its hindi version also 208 pages.</span>
+        </div>
+        <div class="_1OuUqT">
+         <div class="_1nBIs6">
+          <div class="qLyyvN">
+           <span class="_2GEIK5">SARTHAK BOOK STORES</span>
+          </div>
+          <span class="OE2Dzi">
+           <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" class="_3V5JvW">
+            <path fill="#878787" d="M4 0s1.5.2 2.3 0C7 0 7.8.5 8 1c0 0 1.4 0 .8 2.7.2.2.3.4 0 1-.2 1-.4 1-.5 1a3.8 3.8 0 0 1-.3 1v1c.4.2 2 1 3.6 2.3.2.2.4.6.4 1v1.6H6.8l-.5-2.4c1-1.4 0-1.5-.3-1.5s-1.3 0-.3 1.5l-.5 2.4H0V11c0-.4.2-.8.4-1A19 19 0 0 1 4 7.8v-1a3.8 3.8 0 0 1-.4-1.2c-.2 0-.3-.2-.5-1s0-1 .4-1c0 0-.6-2 1-3C4.4.6 4 .2 4 0z"></path>
+           </svg>Flipkart Seller</span>
+         </div>
+         <div class="_1O5m0R">
+          <div class="_1LmwT9 _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">0</span>
+          </div>
+          <div class="_1LmwT9 pkR4jH _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq pkR4jH">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">0</span>
+          </div>
+         </div>
+         <div class="_2bmov8">
+          <svg width="6" height="11" viewbox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2UvOBb">
+           <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="_2aPE6f"></path>
+          </svg>
+          <div class="_3E8aIl _38dCuf">
+           <div class="_3XCI6U _2b2z-j">
+            <span>Report Abuse</span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="_1RWRBu _36IZKv">
+      <div>
+       <div class="_1xR0kG _3cziW5">
+        <span class="_3PSmm0">Q:</span>
+        <span>Does it have pictures</span>
+       </div>
+       <div>
+        <div class="_2yeNfb">
+         <span class="_3PSmm0">A:</span>
+         <span>Yes</span>
+        </div>
+        <div class="_1OuUqT">
+         <div class="_1nBIs6">
+          <div class="qLyyvN">
+           <span class="_2GEIK5">Md Hussain bookstore</span>
+          </div>
+          <span class="OE2Dzi">
+           <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" class="_3V5JvW">
+            <path fill="#878787" d="M4 0s1.5.2 2.3 0C7 0 7.8.5 8 1c0 0 1.4 0 .8 2.7.2.2.3.4 0 1-.2 1-.4 1-.5 1a3.8 3.8 0 0 1-.3 1v1c.4.2 2 1 3.6 2.3.2.2.4.6.4 1v1.6H6.8l-.5-2.4c1-1.4 0-1.5-.3-1.5s-1.3 0-.3 1.5l-.5 2.4H0V11c0-.4.2-.8.4-1A19 19 0 0 1 4 7.8v-1a3.8 3.8 0 0 1-.4-1.2c-.2 0-.3-.2-.5-1s0-1 .4-1c0 0-.6-2 1-3C4.4.6 4 .2 4 0z"></path>
+           </svg>Flipkart Seller</span>
+         </div>
+         <div class="_1O5m0R">
+          <div class="_1LmwT9 _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">0</span>
+          </div>
+          <div class="_1LmwT9 pkR4jH _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq pkR4jH">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">0</span>
+          </div>
+         </div>
+         <div class="_2bmov8">
+          <svg width="6" height="11" viewbox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2UvOBb">
+           <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="_2aPE6f"></path>
+          </svg>
+          <div class="_3E8aIl _38dCuf">
+           <div class="_3XCI6U _2b2z-j">
+            <span>Report Abuse</span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="_1RWRBu _36IZKv">
+      <div>
+       <div class="_1xR0kG _3cziW5">
+        <span class="_3PSmm0">Q:</span>
+        <span>how many page</span>
+       </div>
+       <div>
+        <div class="_2yeNfb">
+         <span class="_3PSmm0">A:</span>
+         <span>136</span>
+        </div>
+        <div class="_1OuUqT">
+         <div class="_1nBIs6">
+          <div class="qLyyvN">
+           <span class="_2GEIK5">Anonymous</span>
+          </div>
+          <span class="OE2Dzi">
+           <svg width="14" height="14" viewbox="0 0 12 12" xmlns="http://www.w3.org/2000/svg" class="_3V5JvW">
+            <g>
+             <circle cx="6" cy="6" r="6" fill="#878787"></circle>
+             <path stroke="#FFF" stroke-width="1.5" d="M3 6l2 2 4-4" fill="#878787"></path>
+            </g>
+           </svg>Certified Buyer</span>
+         </div>
+         <div class="_1O5m0R">
+          <div class="_1LmwT9 _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">0</span>
+          </div>
+          <div class="_1LmwT9 pkR4jH _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq pkR4jH">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">0</span>
+          </div>
+         </div>
+         <div class="_2bmov8">
+          <svg width="6" height="11" viewbox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2UvOBb">
+           <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="_2aPE6f"></path>
+          </svg>
+          <div class="_3E8aIl _38dCuf">
+           <div class="_3XCI6U _2b2z-j">
+            <span>Report Abuse</span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="_1RWRBu _36IZKv">
+      <div>
+       <div class="_1xR0kG _3cziW5">
+        <span class="_3PSmm0">Q:</span>
+        <span>How many pages in this book?</span>
+       </div>
+       <div>
+        <div class="_2yeNfb">
+         <span class="_3PSmm0">A:</span>
+         <span>136</span>
+        </div>
+        <div class="_1OuUqT">
+         <div class="_1nBIs6">
+          <div class="qLyyvN">
+           <span class="_2GEIK5">Swati Jain</span>
+          </div>
+          <span class="OE2Dzi">
+           <svg width="14" height="14" viewbox="0 0 12 12" xmlns="http://www.w3.org/2000/svg" class="_3V5JvW">
+            <g>
+             <circle cx="6" cy="6" r="6" fill="#878787"></circle>
+             <path stroke="#FFF" stroke-width="1.5" d="M3 6l2 2 4-4" fill="#878787"></path>
+            </g>
+           </svg>Certified Buyer</span>
+         </div>
+         <div class="_1O5m0R">
+          <div class="_1LmwT9 _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">0</span>
+          </div>
+          <div class="_1LmwT9 pkR4jH _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq pkR4jH">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">0</span>
+          </div>
+         </div>
+         <div class="_2bmov8">
+          <svg width="6" height="11" viewbox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2UvOBb">
+           <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="_2aPE6f"></path>
+          </svg>
+          <div class="_3E8aIl _38dCuf">
+           <div class="_3XCI6U _2b2z-j">
+            <span>Report Abuse</span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="_1RWRBu _36IZKv">
+      <div>
+       <div class="_1xR0kG _3cziW5">
+        <span class="_3PSmm0">Q:</span>
+        <span>what is the laungage of this book</span>
+       </div>
+       <div>
+        <div class="_2yeNfb">
+         <span class="_3PSmm0">A:</span>
+         <span>Hindi</span>
+        </div>
+        <div class="_1OuUqT">
+         <div class="_1nBIs6">
+          <div class="qLyyvN">
+           <span class="_2GEIK5">Prince Pandey</span>
+          </div>
+          <span class="OE2Dzi">
+           <svg width="14" height="14" viewbox="0 0 12 12" xmlns="http://www.w3.org/2000/svg" class="_3V5JvW">
+            <g>
+             <circle cx="6" cy="6" r="6" fill="#878787"></circle>
+             <path stroke="#FFF" stroke-width="1.5" d="M3 6l2 2 4-4" fill="#878787"></path>
+            </g>
+           </svg>Certified Buyer</span>
+         </div>
+         <div class="_1O5m0R">
+          <div class="_1LmwT9 _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">1</span>
+          </div>
+          <div class="_1LmwT9 pkR4jH _1EEi-k">
+           <svg width="20" height="15" xmlns="http://www.w3.org/2000/svg" class="skCrcq pkR4jH">
+            <path fill="#fff" class="_1LIt4y" d="M9.58.006c-.41.043-.794.32-1.01.728-.277.557-2.334 4.693-2.74 5.1-.41.407-.944.6-1.544.6v8.572h7.5c.45 0 .835-.28 1.007-.665 0 0 2.207-6.234 2.207-6.834 0-.6-.47-1.072-1.07-1.072h-3.216c-.6 0-1.07-.535-1.07-1.07 0-.537.835-3.387 1.006-3.944.17-.557-.107-1.157-.664-1.35-.15-.043-.257-.086-.407-.064zM0 6.434v8.572h2.143V6.434H0z" fill-rule="evenodd"></path>
+           </svg>
+           <span class="_3c3Px5">1</span>
+          </div>
+         </div>
+         <div class="_2bmov8">
+          <svg width="6" height="11" viewbox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2UvOBb">
+           <path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#fff" class="_2aPE6f"></path>
+          </svg>
+          <div class="_3E8aIl _38dCuf">
+           <div class="_3XCI6U _2b2z-j">
+            <span>Report Abuse</span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="_1bh0RH">
+     <a class="_2KpZ6l dVBe_p" href="/alchemist/product-questions/itmfc9jxsc7dckfm?pid=9780062024329">All questions</a>
+     <span class="q_elos">+</span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="_1AtVbE col-12-12">
+  <div class="_124baV">
+   <div class="_1RVm3P">
+    Safe and Secure Payments.
+    <!-- -->Easy returns.
+    <!-- -->100% Authentic products.
+   </div>
+  </div>
+ </div>
+</div>
